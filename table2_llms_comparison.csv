@@ -1,0 +1,6 @@
+Model Name,Base Model,Dataset Used,Tuning Technique,Notable Features/Outcomes
+Alpaca,LLaMA-7B,52K synthetic from Self-Instruct,SFT,"Lightweight, affordable fine-tuning with good generalization"
+Vicuna,LLaMA,ShareGPT,SFT,High-quality dialogues; mimics ChatGPT conversations
+OpenChat,MPT,OpenAssistant,SFT,Strong multi-turn dialogue handling
+DeepSeek-Instruct,DeepSeek,UltraChat + Internal data,SFT + Optimization,High performance in multilingual and code tasks
+Zephyr,Mistral,UltraChat + MT-Bench,DPO,"Preference alignment using DPO, good benchmark performance"

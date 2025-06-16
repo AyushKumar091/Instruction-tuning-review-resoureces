@@ -1,0 +1,6 @@
+Model,Base,Dataset,Method,Params
+Alpaca,LLaMA-7B,Self-Instruct (52k),SFT,7B
+Vicuna,LLaMA-13B,ShareGPT,SFT,13B
+OpenChat,Mistral-7B,Evol-Instruct,DPO,7B
+DeepSeek-Instruct,DeepSeek,Internal,SFT,7B/67B
+Zephyr,Mistral,UltraChat,DPO,7B

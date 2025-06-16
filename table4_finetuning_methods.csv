@@ -1,0 +1,4 @@
+Method,Description,Advantages,Disadvantages
+SFT,Supervised fine-tuning on instruction–response pairs,"Simple, reproducible, effective",Lacks nuance in alignment
+RLHF,Feedback-based training using PPO and reward models,Better alignment with user intent,"Costly, complex to implement"
+DPO,Direct optimization using pairwise preferences,"Computationally efficient, stable","Still evolving, limited tool support"
