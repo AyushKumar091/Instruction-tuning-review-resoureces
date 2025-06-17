@@ -3,4 +3,4 @@ FLAN Collection,Human-curated,1.8M+,Multi-source NLP,"FLAN-T5, PaLM"
 Super-NaturalInstructions,Human-curated,1.6K tasks,Diverse NLP,"Alpaca, Self-Instruct"
 UltraChat,Synthetic,1.3M+,GPT-generated,"Zephyr, DeepSeek"
 OpenAssistant,Mixed,600K+,Human + community,"OpenChat, MPT-based models"
-FLAN (Expanded)*,Human-curated + multi-format,1.8M+,Google Research,FLAN-T5, FLAN-PaLM
+FLAN (Expanded),Human-curated + multi-format,1.8M+,Google Research,"FLAN-T5, FLAN-PaLM"
