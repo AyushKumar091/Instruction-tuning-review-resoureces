@@ -4,7 +4,7 @@ This repository contains comparative tables and structured datasets supporting t
 
 **Title**: *Scaling Instruction Fine-Tuning in LLMs: A Comparative Review of Datasets, Pipelines, and Open-Source Implementations*  
 **Author**: Ayush Kumar  
-**Affiliation**: B.Tech, Computer Science and Engineering (AI & ML), Vellore Institute of technology, Vellore, India
+**Affiliation**: B.Tech, Computer Science and Engineering (AI & ML), Vellore Institute of technology, Vellore, India 
 **Email**: ayushkr09@gmail.com
 
 ## 📝 About the Paper
